@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\유석환\source\repos\project8\project8\소스.cpp(30): warning C4101: 'j': unreferenced local variable
+c:\users\유석환\source\repos\project8\project8\소스.cpp(32): warning C4101: 't': unreferenced local variable
+c:\users\유석환\source\repos\project8\project8\소스.cpp(86): warning C4101: 'c': unreferenced local variable
+c:\users\유석환\source\repos\project8\project8\소스.cpp(21): warning C4715: 'isPrior': not all control paths return a value
+  Project8.vcxproj -> C:\Users\유석환\source\repos\Project8\Debug\Project8.exe
